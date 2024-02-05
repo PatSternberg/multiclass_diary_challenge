@@ -180,8 +180,9 @@ _Create examples, where appropriate, of the behaviour of each relevant class at
 a more granular level of detail._
 
 ```
-Add tests for e.g. empty values, empty strings, empty lists, differing datestamps
-
+Tests for diary entry - add empty entry, add 'None' entry
+Tests for to do list - add empty entry, add 'None' entry
+Tests for diary - add empty diary entry, add empty to do list
 
 ```
 
